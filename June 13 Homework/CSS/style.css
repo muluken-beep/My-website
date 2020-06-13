@@ -1,0 +1,35 @@
+.first{
+
+    background-color: aqua;
+}
+
+.second{
+    background-color: azure;
+}
+
+.third{
+    background-color: beige;
+}
+
+.fourth{
+    background-color: bisque;
+}
+
+.first h2 {
+
+    color:blue;
+}
+
+.second h2{
+    color: crimson;
+}
+
+.third h2{
+
+    color: cyan;
+}
+
+.fourth h2{
+
+    color: orangered;
+}
